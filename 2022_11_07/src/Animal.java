@@ -1,5 +1,6 @@
 public class Animal extends Fiinta implements SleepingCreature, EatingCreature, Comparable, Cloneable {
 
+    // something changed
     int age;
 
     Animal() {
